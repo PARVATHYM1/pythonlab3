@@ -1,0 +1,4 @@
+red  colour
+orange  colour
+yellow colour
+purple colour
